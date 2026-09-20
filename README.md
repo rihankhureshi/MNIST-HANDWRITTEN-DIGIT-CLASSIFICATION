@@ -439,7 +439,7 @@ The project also provides a practical introduction to TensorFlow/Keras and demon
 
 **Rihan Dastagir Khureshi**
 
-GitHub: [Khureshirihan57@gmail.com](https://github.com/rihankhureshi)
+GitHub:(https://github.com/rihankhureshi)
 
 ---
 
