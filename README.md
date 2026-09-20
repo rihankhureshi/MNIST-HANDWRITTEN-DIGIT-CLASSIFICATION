@@ -437,9 +437,9 @@ The project also provides a practical introduction to TensorFlow/Keras and demon
 
 ## 👨‍💻 Author
 
-**Vijay Gowda**
+**Rihan Dastagir Khureshi**
 
-GitHub: [@vijaygowda93](https://github.com/vijaygowda93)
+GitHub: [Khureshirihan57@gmail.com](https://github.com/rihankhureshi)
 
 ---
 
